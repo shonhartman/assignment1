@@ -1,0 +1,21 @@
+body {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 17px;
+  line-height: 1.5;
+}
+
+h2  {
+  background: #EB5555;
+  padding: 0 5px 2px;
+  border-radius: 4px;
+  margin: 0 3px 0 1px;
+  font-size: 98%;
+}
+
+p {
+  font-size: 95%;
+}
+
+li {
+  font-size: 90%;
+}
